@@ -1,0 +1,40 @@
+name: 'Radicati Default Content'
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+description: 'Default content used in the Radicati theme.'
+package: radicati
+
+default_content:
+  block_content:
+    - 16572a13-2d21-4d10-baa1-3bda301797be
+    - af1cb59e-024f-4cf3-92bb-7fa363c843c9
+
+  taxonomy_term:
+    - d68016ed-dc9b-4448-a3aa-e266cbfe8fdd
+    - 874dd636-e596-45a9-b64f-f906c39e3e23
+    - 200988ab-e6c4-4f6a-bcb3-6292de3949fd
+    - 4118b456-787b-449b-a6aa-8204c3964b67
+    - 91c3d554-2612-44ef-8484-4b7b44cd4d92
+    - 83623d6a-4d81-481f-91ff-08bfc718f961
+    - 0a7e3e76-4251-4a4b-8c72-ca86794161d0
+    - 646cf295-d9f5-4a69-bf42-6f362249d7e5
+    - b45745ac-6bdf-464a-a19d-eece07105f0a
+    - b4835892-194b-40f9-b6d0-558a5e7656c7
+    - 026525fd-60bb-47c6-9e86-69843b862509
+    - 392dfc3b-13b2-4730-b6f5-7a3f9d26e2df
+    - f9fc7caa-67b9-4c5d-afe7-ca81a12fa47f
+    - 3bb2ce51-e298-4de1-a588-2f8410474732
+    - 219115f2-00de-414a-b80c-251c80d18b23
+    - d18d730c-6f3b-4638-b207-b70b30c7f34b
+    - b7f465c0-da73-4de4-8dd8-ef768220c739
+    - 1e14d944-400a-4ad3-b653-236059f70b76
+    - aa2eeb59-3450-47d4-b050-a93d240a2d9b
+    - 3fccba1c-356a-4c82-8244-3922875d3f72
+    - 9bd67280-854f-4862-a66c-33ff518473a4
+    - 28f41548-a64b-4401-8f32-d1739cf6c93f
+    - 179e89fc-fa15-48e3-915f-3b5ee78ebbad
+    - 6610be57-d4eb-47a6-8ede-a7a31ebd086e
+    - 6635cdbc-a6bf-45dd-845a-781bdcf73764
+    - 5591c8a3-5212-46c2-947d-d3ff4ff629d2
+    - e725b1aa-6052-4ec4-b2a1-9e6fbc484ef0
+    - a84ebef3-df0f-4212-a6c6-4c0104321775

@@ -1,0 +1,41 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 16572a13-2d21-4d10-baa1-3bda301797be
+  bundle: buttons
+  default_langcode: en
+  depends:
+    026525fd-60bb-47c6-9e86-69843b862509: taxonomy_term
+    f9fc7caa-67b9-4c5d-afe7-ca81a12fa47f: taxonomy_term
+    a84ebef3-df0f-4212-a6c6-4c0104321775: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'OffCanvas Buttons'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  field_buttons_buttons:
+    -
+      uri: 'internal:/'
+      title: Donate
+      options: {  }
+    -
+      uri: 'internal:/'
+      title: 'Learn More'
+      options: {  }
+  field_setting_alignment:
+    -
+      entity: 026525fd-60bb-47c6-9e86-69843b862509
+  field_setting_background:
+    -
+      entity: f9fc7caa-67b9-4c5d-afe7-ca81a12fa47f
+  field_setting_direction:
+    -
+      entity: a84ebef3-df0f-4212-a6c6-4c0104321775
