@@ -1,0 +1,32 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 200988ab-e6c4-4f6a-bcb3-6292de3949fd
+  bundle: resource_types
+  default_langcode: en
+  depends:
+    3abf635f-9c00-4735-9563-1bd1b5be2570: media
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Document
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_icon:
+    -
+      entity: 3abf635f-9c00-4735-9563-1bd1b5be2570
