@@ -5,7 +5,13 @@ description: 'Default content used in the Radicati theme.'
 package: radicati
 
 dependencies:
-  - default_content
+  - drupal:node
+  - drupal:taxonomy
+  - drupal:block
+  - drupal:block_content
+  - default_content:default_content
+  - drupal:text
+  - drupal:user
 
 default_content:
   block_content:
