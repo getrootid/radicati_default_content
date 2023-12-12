@@ -4,6 +4,9 @@ core_version_requirement: ^8 || ^9 || ^10
 description: 'Default content used in the Radicati theme.'
 package: radicati
 
+dependencies:
+  - default_content
+
 default_content:
   block_content:
     - 16572a13-2d21-4d10-baa1-3bda301797be
